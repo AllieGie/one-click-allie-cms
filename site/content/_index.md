@@ -1,5 +1,5 @@
 ---
-title: "Great coffee with a conscience"
+title: "Hi my name is Allie Castellanos, a full stack Web Developer."
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
